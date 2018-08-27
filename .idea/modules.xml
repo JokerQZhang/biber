@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/biber.iml" filepath="$PROJECT_DIR$/biber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register-center/register-center.iml" filepath="$PROJECT_DIR$/register-center/register-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system-server/system-server.iml" filepath="$PROJECT_DIR$/system-server/system-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system-web/system-web.iml" filepath="$PROJECT_DIR$/system-web/system-web.iml" />
     </modules>
   </component>
 </project>
